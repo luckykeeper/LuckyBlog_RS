@@ -3,4 +3,4 @@ LuckyBlog Resource
 
 Thanks to PicX（https://github.com/XPoet/picx）
 
-my Blog URL: http:blog.luckykeeper.site:24680
+my Blog website: (https:blog.luckykeeper.site:24680)
