@@ -1,6 +1,6 @@
 # LuckyBlog_RS
-LuckyBlog Resource
+LuckyBlog‘s Resource
 
-Thanks to PicX（https://github.com/XPoet/picx）
+Thanks to [PicX](https://github.com/XPoet/picx)
 
-my Blog website:（https:blog.luckykeeper.site:24680）
+Welcome to my [blog](https:blog.luckykeeper.site:24680)
