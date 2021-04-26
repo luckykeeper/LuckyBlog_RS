@@ -1,6 +1,17 @@
 # LuckyBlog_RS
+
 LuckyBlog‘s Resource
 
 Thanks to [PicX](https://github.com/XPoet/picx)
 
-Welcome to my [blog](https:blog.luckykeeper.site:24680)
+Welcome to [LuckyBlogV2](https:blog.luckykeeper.site:24680)
+
+------
+
+这里是我博客的图床哒~
+
+欢迎来[小站](https:blog.luckykeeper.site:24680)一坐
+
+图片使用[Picx](https://github.com/XPoet/picx)上传
+
+感谢Picx的作者大大和jsdelivr提供的免费加速服务
