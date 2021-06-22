@@ -4,7 +4,7 @@ LuckyBlog‘s Resource
 
 Thanks to [PicX](https://github.com/XPoet/picx)
 
-Welcome to [LuckyBlogV2](https:blog.luckykeeper.site:24680)
+Welcome to [LuckyBlogV2](https://blog.luckykeeper.site:24680/)
 
 ------
 
